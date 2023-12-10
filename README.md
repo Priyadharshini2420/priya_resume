@@ -1,6 +1,8 @@
 # priya_resume
 
 
+![Click to go resume website](https://priyadharshini2420.github.io/priya_resume/)
+
 ![image](https://github.com/Priyadharshini2420/priya_resume/assets/146609883/7188b186-5b78-471a-a71e-1fe20b79bab3)
 
 ![image](https://github.com/Priyadharshini2420/priya_resume/assets/146609883/20460862-b6f1-4d9d-b85e-46e13f6cc6a7)
